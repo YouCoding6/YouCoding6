@@ -1,4 +1,4 @@
-### Hi there 👋 ### Here is what I'm working on 
+### Hi there I'm Youcef 👋 here is what I'm working on 
 
 ### :rocket: Currently working with:
 
@@ -6,12 +6,6 @@
 -Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
 -Design : Figma
 -Git, Github, Heroku
-
-### 🔭 I’m currently working with:
-Front-End: React JS, HTML, CSS, SASS, Bootstrap, JavaScript
-Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
-Design : Figma, Canva
-Git, Github, Heroku
 
 - 🌱 I’m currently learning: Typescript,Docker,UX Design,SEO
 
