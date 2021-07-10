@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 ### Here is what I'm working on 
 
-<!--
-**YouCoding6/YouCoding6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rocketCurrently working with:
 
-Here are some ideas to get you started:
+Front-End: React JS, HTML, CSS, SASS, Bootstrap, JavaScript
+Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
+Design : Figma, Canva
+Git, Github, Heroku
+seedling Currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+UX Design
+SEO
+
+- 🔭 I’m currently working with:
+Front-End: React JS, HTML, CSS, SASS, Bootstrap, JavaScript
+Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
+Design : Figma, Canva
+Git, Github, Heroku
+
+- 🌱 I’m currently learning: Typescript,Docker,UX Design,SEO
+
+- 👯 I’m looking to collaborate on: developement web project  
+
+- 💬 Ask me about web developement
+
+- 📫 How to reach me: soon will be ready
+
+
