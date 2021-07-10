@@ -2,10 +2,10 @@
 
 ### :rocket: Currently working with:
 
--Front-End: React JS, HTML, CSS, SASS, Bootstrap, JavaScript
--Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
--Design : Figma
--Git, Github, Heroku
+- Front-End: React JS, HTML, CSS, SASS, Bootstrap, JavaScript
+- Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
+- Design : Figma
+- Git, Github, Heroku
 
 - 🌱 I’m currently learning: Typescript,Docker,UX Design,SEO
 
