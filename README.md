@@ -7,12 +7,17 @@
 - Design : Figma
 - Git, Github, Heroku
 
-- 🌱 I’m currently learning: Typescript,Docker,UX Design,SEO
+### 🌱 I’m currently learning: 
+  
+- Typescript
+- Docker
+- UX Design
+- SEO
 
-- 👯 I’m looking to collaborate on: developement web project  
+### 👯 I’m looking to collaborate on developement web project  
 
-- 💬 Ask me about web developement
+### 💬 Ask me about web developement
 
-- 📫 How to reach me: soon will be ready
+### 📫 How to reach me: soon will be ready
 
 
