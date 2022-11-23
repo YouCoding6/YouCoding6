@@ -21,5 +21,3 @@
 ### 📫 How to reach me: https://www.youcef-khalainou.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoucefKhalainou)](https://github.com/anuraghazra/github-readme-stats)
-
-
