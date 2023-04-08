@@ -10,8 +10,9 @@
 ### 🌱 I’m currently learning: 
   
 - Typescript
+- Python
+- Graphql
 - Docker
-- UX Design
 - SEO
 
 ### :mag_right: I’m looking to collaborate on developement web project  
