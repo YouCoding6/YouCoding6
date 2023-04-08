@@ -14,7 +14,7 @@
 - UX Design
 - SEO
 
-### 👯 I’m looking to collaborate on developement web project  
+### :mag_right: I’m looking to collaborate on developement web project  
 
 ### 💬 Ask me about web developement
 
