@@ -15,7 +15,3 @@
 - Docker
 
 ### :mag_right: I’m looking to collaborate on developement web project  
-
-### 💬 Ask me about web developement
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoucefKhalainou)](https://github.com/anuraghazra/github-readme-stats)
