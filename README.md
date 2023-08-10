@@ -5,7 +5,7 @@
 - Front-End: React JS, HTML, CSS, SASS, Bootstrap, JavaScript
 - Back-End: Ruby on Rails, PostgreSQL, RESTful APIs, JSON
 - Design : Figma
-- Git, Github, Heroku
+- Git, Github, Heroku, SEO
 
 ### 🌱 I’m currently learning: 
   
@@ -13,7 +13,6 @@
 - Python
 - Graphql
 - Docker
-- SEO
 
 ### :mag_right: I’m looking to collaborate on developement web project  
 
